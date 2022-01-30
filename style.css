@@ -1,0 +1,47 @@
+body {
+    background-color: azure;
+}
+
+ul li {
+    color: rgba(197, 36, 36, 0.575);
+}
+
+ol li {
+    color: rgb(149, 178, 231);
+}
+
+h1 {
+    color: cadetblue;
+    background-color: azure;
+    font-family: Calibri;
+    text-align: center;
+    border: 2px solid ;
+    border-radius: 15px;
+}
+
+h2 {
+    color: rgb(131, 187, 189);
+}
+
+h3 {
+    color: rgb(65, 116, 117);
+}
+
+p {
+    color: rgba(134, 164, 165, 0.863);
+}
+
+img {
+    border-radius: 50%;
+}
+
+
+#img {
+    height: 200px;
+    width: 200px;
+}
+
+a {
+    text-decoration: none;
+    color: cadetblue;
+}
